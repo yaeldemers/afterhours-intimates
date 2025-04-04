@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9cec528a.css",
-    "main.js": "/static/js/main.8e113351.js",
-    "static/js/453.4ce91ad3.chunk.js": "/static/js/453.4ce91ad3.chunk.js",
-    "static/media/afterhours-sewing-kit.png": "/static/media/afterhours-sewing-kit.80982f7f9f71717f843e.png",
-    "static/media/afterhours-intimates-header.png": "/static/media/afterhours-intimates-header.c97a16a8a74751897ccd.png",
-    "index.html": "/index.html",
-    "main.9cec528a.css.map": "/static/css/main.9cec528a.css.map",
-    "main.8e113351.js.map": "/static/js/main.8e113351.js.map",
-    "453.4ce91ad3.chunk.js.map": "/static/js/453.4ce91ad3.chunk.js.map"
+    "main.css": "/afterhours-intimates/static/css/main.9cec528a.css",
+    "main.js": "/afterhours-intimates/static/js/main.c5c9da0d.js",
+    "static/js/453.4ce91ad3.chunk.js": "/afterhours-intimates/static/js/453.4ce91ad3.chunk.js",
+    "static/media/afterhours-sewing-kit.png": "/afterhours-intimates/static/media/afterhours-sewing-kit.80982f7f9f71717f843e.png",
+    "static/media/afterhours-intimates-header.png": "/afterhours-intimates/static/media/afterhours-intimates-header.c97a16a8a74751897ccd.png",
+    "index.html": "/afterhours-intimates/index.html",
+    "main.9cec528a.css.map": "/afterhours-intimates/static/css/main.9cec528a.css.map",
+    "main.c5c9da0d.js.map": "/afterhours-intimates/static/js/main.c5c9da0d.js.map",
+    "453.4ce91ad3.chunk.js.map": "/afterhours-intimates/static/js/453.4ce91ad3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cec528a.css",
-    "static/js/main.8e113351.js"
+    "static/js/main.c5c9da0d.js"
   ]
 }
