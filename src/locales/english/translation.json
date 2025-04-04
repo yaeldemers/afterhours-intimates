@@ -1,0 +1,64 @@
+{
+  "navbar": {
+    "title": "afterhours",
+    "tagline": "handmade lingerie tailored to your individual measurements.",
+    "shop": "shop",
+    "measurements": "measurements",
+    "care": "care",
+    "howToOrder": "order",
+    "lookbook": "lookbook"
+  },
+  "footer": {
+    "tagline": "handmade with care in canada",
+    "shop": "shop",
+    "measurements": "measurements",
+    "care": "care",
+    "lookbook": "Lookbook",
+    "order": "order",
+    "email": "hello@afterhours.ca",
+    "explore": "explore"
+  },
+  "hero": {
+  "headlineLine1": "tailored by hand,",
+  "headlineLine2": "inspired by you",
+  "subtext": "handmade lingerie, designed and crafted in Canada",
+  "cta": "View Lookbook"
+  },
+  "about": {
+  "quote": "Each piece begins as a conversation — between fabric and form, between intention and touch.",
+  "description": "We believe in slow fashion, timeless silhouettes, and lingerie that celebrates the body it adorns."
+  },
+  "shopPreview": {
+  "title": "afterhours essentials",
+  "viewAll": "view all pieces",
+  "cta":"learn more",
+  "tags": {
+    "new": "new",
+    "promo": "sale"
+  }
+},
+"howToOrder": {
+  "title": "how to order",
+  "cta": "Start Your Custom Order",
+  "step1": {
+    "title": "choose your model",
+    "description": "Browse our collection of signature styles in the shop, and find the piece that feels like you."
+  },
+  "step2": {
+    "title": "send your measurements",
+    "description": "Take your measurements using our guide, or reach out if you'd like support with custom sizing."
+  },
+  "step3": {
+    "title": "tailored & shipped",
+    "description": "Once we have your details, we handcraft your lingerie in our Montréal studio and deliver it to your door."
+  }
+},
+"lookbookPreview": {
+  "title": "be inspired"
+},
+"contactCTA": {
+  "title": "join us after hours.",
+  "subtitle": "be the first to hear about drops, restocks, and stories behind the seams.",
+  "follow": "afterhours_intimates"
+}
+}

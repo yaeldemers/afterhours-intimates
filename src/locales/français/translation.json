@@ -1,0 +1,64 @@
+{
+  "navbar": {
+    "title": "afterhours",
+    "tagline": "lingerie faite à la main, adaptée à vos mensurations.",
+    "shop": "boutique",
+    "measurements": "mesures",
+    "care": "entretien",
+    "howToOrder": "commander",
+    "lookbook": "lookbook"
+  },
+  "footer": {
+    "tagline": "fait avec soin au canada",
+    "shop": "boutique",
+    "measurements": "mesures",
+    "care": "entretien",
+    "lookbook": "lookbook",
+    "order": "commander",
+    "email": "bonjour@afterhours.ca",
+    "explore": "explorer"
+  },
+  "hero": {
+  "headlineLine1": "conçu à la main,",
+  "headlineLine2": "inspiré par vous",
+  "subtext": "lingerie faite à la main, conçue et fabriquée au Canada",
+  "cta": "voir le lookbook"
+  },
+  "about": {
+  "quote": "Chaque pièce commence par une conversation — entre tissu et forme, entre intention et toucher.",
+  "description": "Nous croyons en la mode lente, les silhouettes intemporelles, et la lingerie qui célèbre le corps qu'elle habille."
+  },
+  "shopPreview": {
+  "title": "essentiels afterhours",
+  "viewAll": "voir toute la boutique",
+  "cta":"en savoir plus",
+  "tags": {
+    "new": "nouveauté",
+    "promo": "promo"
+  }
+},
+"howToOrder": {
+  "title": "commander en 3 étapes",
+  "cta": "commencer ma commande",
+  "step1": {
+    "title": "choisissez votre modèle",
+    "description": "Parcourez notre collection de styles signature dans la boutique, et trouvez la pièce qui vous ressemble."
+  },
+  "step2": {
+    "title": "envoyez vos mensurations",
+    "description": "Prenez vos mesures à l'aide de notre guide, ou contactez-nous si vous souhaitez obtenir de l'aide pour une taille personnalisée."
+  },
+  "step3": {
+    "title": "confection & envoi",
+    "description": "Une fois que nous avons vos détails, nous fabriquons votre lingerie à la main dans notre studio de Montréal et la livrons à votre porte."
+  }
+},
+"lookbookPreview": {
+  "title": "inspirez-vous"
+},
+"contactCTA": {
+  "title": "rejoignez-nous after hours.",
+  "subtitle": "soyez les premiers informés des nouveautés, réassorts et histoires derrière les coutures.",
+  "follow": "afterhours_intimates"
+}
+}
