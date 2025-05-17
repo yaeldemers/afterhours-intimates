@@ -23,12 +23,11 @@ module.exports = {
         'fade-in': 'fade-in 1.2s ease-out forwards',
       },
       colors: {
-        blush: '#fdf4f5',           // background light pink
-        rose: '#e8cfcf',            // secondary soft rose
+        blush: '#fff4f8',           // light pink
         mocha: '#4a3b36',           // dark brown/black for text
         lace: '#fffafc',            // off white, soft
         gold: '#c9a66b',            // accent (matching hardware/ribbon tones)
-        plum: '#5a3d47',            // deep romantic alt
+        plum: '#492223',            // deep romantic alt
       },
       fontFamily: {
         serif: ['"Playfair Display"', 'serif'], // Elegant headlines
@@ -50,11 +49,11 @@ module.exports = {
     themes: [
       {
         afterhours: {
-          primary: "#5a3d47",     // plum
-          secondary: "#e8cfcf",   // rose
+          primary: "#492223",     // plum
+          secondary: "#fff4f8",   // blush
           accent: "#c9a66b",      // gold
           neutral: "#4a3b36",     // mocha
-          "base-100": "#fdf4f5",  // blush background
+          "base-100": "#fff4f8",  // blush background -> might want lace instead
           info: "#a5a5d7",
           success: "#a3e635",
           warning: "#facc15",

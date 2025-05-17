@@ -39,7 +39,7 @@
 },
 "howToOrder": {
   "title": "how to order",
-  "cta": "Start Your Custom Order",
+  "cta": "start your custom order",
   "step1": {
     "title": "choose your model",
     "description": "Browse our collection of signature styles in the shop, and find the piece that feels like you."
@@ -57,7 +57,7 @@
   "title": "be inspired"
 },
 "contactCTA": {
-  "title": "join us after hours.",
+  "title": "join us afterhours",
   "subtitle": "be the first to hear about drops, restocks, and stories behind the seams.",
   "follow": "afterhours_intimates"
 }

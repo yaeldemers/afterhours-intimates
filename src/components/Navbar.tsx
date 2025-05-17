@@ -42,9 +42,9 @@ export default function Navbar() {
       }`;
 
   return (
-    <header className="bg-lace shadow-sm">
+    <header className="bg-blush shadow-sm">
       <div className="mx-auto max-w-7xl px-4 py-4 flex justify-between items-center">
-        <NavLink  to="/" className="font-serif text-3xl md:text-4xl text-mocha">
+        <NavLink  to="/" className="font-serif text-3xl md:text-4xl text-plum">
           {t("navbar.title")}
         </NavLink >
 

@@ -11,14 +11,14 @@ export default function Footer() {
   "after:bg-plum after:transition-all after:duration-300 after:w-0 hover:after:w-full";
 
   return (
-    <footer className="bg-lace text-plum text-sm font-body px-4 py-10 mt-12">
+    <footer className="bg-blush text-plum text-sm font-body px-4 py-10 mt-12">
       <div className="max-w-7xl mx-auto flex flex-col gap-8 md:flex-row md:justify-between md:items-start">
         
         {/* Left: Logo + Tagline */}
         <div className="text-center md:text-left">
           <Link
             to="/"
-            className="text-2xl font-serif text-mocha hover:opacity-80 transition-opacity block mb-2"
+            className="text-2xl font-serif text-plum hover:opacity-80 transition-opacity block mb-2"
           >
             afterhours
           </Link>

@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* Masonry column layout (for react-masonry-css) */
+.masonry-column {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem; /* same as Tailwind gap-6 */
+}

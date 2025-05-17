@@ -1,9 +1,9 @@
-import HeroSection from "../components/HeroSection";
-import AboutSection from "../components/AboutSection";
-import ShopPreviewSection from "../components/ShopPreviewSection";
-import HowToOrderSection from "../components/HowToOrder";
-import LookbookSection from "../components/LookbookSection"
-import ContactSection from "../components/ContactSection";
+import HeroSection from "../components/sections/HeroSection";
+import AboutSection from "../components/sections/AboutSection";
+import ShopPreviewSection from "../components/sections/ShopPreviewSection";
+import HowToOrderSection from "../components/sections/HowToOrderSection";
+import LookbookPreviewSection from "../components/sections/LookbookPreviewSection"
+import ContactSection from "../components/sections/ContactSection";
 
 export default function Home() {
   return (
@@ -12,7 +12,7 @@ export default function Home() {
       <AboutSection />
       <ShopPreviewSection/>
       <HowToOrderSection/>
-      <LookbookSection/>
+      <LookbookPreviewSection/>
       <ContactSection/>
       {/* Next section will go here */}
     </>
